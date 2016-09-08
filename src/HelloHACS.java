@@ -4,5 +4,6 @@
 public class HelloHACS {
     public static void main(String[] args) {
         System.out.println("HACS. HI!");
+        System.out.println("Is this going to work");
     }
 }
