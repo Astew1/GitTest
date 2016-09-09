@@ -6,5 +6,6 @@ public class HelloHACS {
         System.out.println("HACS. HI!");
         System.out.println("Is this going to work");
         System.out.println("Jack done");
+        System.out.println("YEET");
     }
 }
